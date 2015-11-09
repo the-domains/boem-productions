@@ -1,7 +1,7 @@
 name: boem productions
 favicon: null
 layout_spectrum: 0.51258
-typography_spectrum: 0.53892
+typography_spectrum: 0.46371
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#000000'
     - '#000000'
   brandStrength: 0
-  lightness: 0.875
-  saturation: 0.6875
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.75
 purpose: []
