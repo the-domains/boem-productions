@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[boem productions]]></title>
         <description><![CDATA[boem productions]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/boem-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 22:06:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 22:08:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/boem-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Steve :: REWIND]]></title>
             <description><![CDATA[<article><h1>Steve :: REWIND</h1><p>Sometimes i just need to go back and re-do an image i did a while back. People change, our tastes change and as such i felt compelled to go back and give this shot of Steve a new life and work-over. Really loving the new look and I feel better now too.  Thanks for checkin in!  Ciao.</p></article>]]></description>
-            <link>undefinedsteve-rewind/index.html</link>
+            <link>https://thegrid.ai/boem-productions/steve-rewind/index.html</link>
             <guid isPermaLink="false">f5aa7708-6410-497e-8a9a-8fb9ec47df04</guid>
             <pubDate>Mon, 09 Nov 2015 22:05:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/boem-productions/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">ebef6fe1-3b61-482b-b792-4097d678ed49</guid>
+            <pubDate>Mon, 09 Nov 2015 22:08:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
