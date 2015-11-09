@@ -1,0 +1,23 @@
+name: boem productions
+favicon: null
+layout_spectrum: 0.6818135313224047
+typography_spectrum: 0.976533236913383
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7725421073846519
+  lightness: 0.9557419759221375
+  saturation: 0.5518655136693269
+  rhythmicContrast: 0.8734774766489863
+purpose: []
