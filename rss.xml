@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[boem productions]]></title>
+        <description><![CDATA[boem productions]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 22:06:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Steve :: REWIND]]></title>
+            <description><![CDATA[<article><h1>Steve :: REWIND</h1><p>Sometimes i just need to go back and re-do an image i did a while back. People change, our tastes change and as such i felt compelled to go back and give this shot of Steve a new life and work-over. Really loving the new look and I feel better now too.  Thanks for checkin in!  Ciao.</p></article>]]></description>
+            <link>undefinedsteve-rewind/index.html</link>
+            <guid isPermaLink="false">f5aa7708-6410-497e-8a9a-8fb9ec47df04</guid>
+            <pubDate>Mon, 09 Nov 2015 22:05:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
